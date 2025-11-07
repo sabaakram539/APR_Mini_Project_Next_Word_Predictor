@@ -1,0 +1,23 @@
+# 👇 From the official PyTorch website for CUDA 12.2
+# ✅ Use --extra-index-url to add the PyTorch index without replacing the default one
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch
+torchvision
+torchaudio
+torchinfo
+
+# ... and your other packages
+pandas
+numpy
+matplotlib
+jupyterlab
+tqdm
+scikit-learn
+optuna
+kagglehub
+transformers
+datasets
+pytorch-lightning
+torchmetrics
+utils
